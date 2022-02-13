@@ -1,0 +1,29 @@
+
+.mainArea 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    min-height: 913.5px;
+}
+.container
+{
+    padding: 2rem;
+}
+
+.pending
+{
+    color: grey;
+}
+
+.correct 
+{
+    color: green;
+}
+
+.incorrect
+{
+    color: red;
+    font-weight: bold;
+}

@@ -1,27 +1,25 @@
-# Words
+# Card Exercises
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+Projede [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2 kullandım
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Proje `ng serve` komutuyla `http://localhost:4200/`. portunda başka bir port kullanılmıyorsa çalışacaktır
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Uygulamada Css kütüphanesi olarak 'Bulma' kullanıldı
 
-## Build
+Web sitesine [Bulma](https://bulma.io/) tıklayarak gidebilirsiniz.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## ---------------------------------------------------------------
+Uygulamada birçok hata bulunuyor ancak zaman zaman güncelleyeceğim.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Her türlü eleştriye ve geliştirmeye açığım. 
 
-## Running end-to-end tests
+Önerilerinizi bana 
+[Linkedin](https://www.linkedin.com/in/%C5%9Fahincan-%C3%B6zbak%C4%B1r-19554aa1/)\n
+[Instagram](https://www.instagram.com/sahincanozbakir/)\n
+[Twitter](https://twitter.com/SahincanR)
+veya E mail adresimden 'ozbakirsahincan@gmail.com' ulaşabilirsiniz.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
