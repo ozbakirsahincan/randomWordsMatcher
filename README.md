@@ -18,8 +18,8 @@ Uygulamada birçok hata bulunuyor ancak zaman zaman güncelleyeceğim.
 Her türlü eleştriye ve geliştirmeye açığım. 
 
 Önerilerinizi bana 
-[Linkedin](https://www.linkedin.com/in/%C5%9Fahincan-%C3%B6zbak%C4%B1r-19554aa1/)`\n`
-[Instagram](https://www.instagram.com/sahincanozbakir/)`\n`
+[Linkedin](https://www.linkedin.com/in/%C5%9Fahincan-%C3%B6zbak%C4%B1r-19554aa1/)
+[Instagram](https://www.instagram.com/sahincanozbakir/)
 [Twitter](https://twitter.com/SahincanR)
 veya E mail adresimden 'ozbakirsahincan@gmail.com' ulaşabilirsiniz.
 
